@@ -5,3 +5,5 @@ public class Main {
         System.out.println("MiniInventario iniciado correctamente.");
     }
 }
+
+//Mejora para rama funcional
