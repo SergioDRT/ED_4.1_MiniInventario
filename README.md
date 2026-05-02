@@ -14,11 +14,7 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 
 
 
-Mejora del README
 
-
-
-Cambio en repositorio clonado 
 
 
 
