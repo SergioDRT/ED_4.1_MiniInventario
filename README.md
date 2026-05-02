@@ -11,10 +11,10 @@ Aplicación de consola en Java para practicar Git y GitHub.
 ## Ejecución
 
 Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
+Mejora para  shelve
 
 
-
-
+Mejora para rama funcional
 
 
 
