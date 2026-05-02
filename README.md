@@ -14,7 +14,8 @@ Abrir el proyecto en IntelliJ IDEA y ejecutar la clase Main.
 Mejora para  shelve
 
 
-Mejora para rama funcional
+Mejora para docuemntal /funcional 
+
 
 
 
